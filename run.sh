@@ -2,6 +2,6 @@
 
 while true
 do
-    /Users/mac/Documents/TelegramGPT2.0/index.js
+    ./index.js
     sleep 300
 done
